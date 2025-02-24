@@ -108,15 +108,15 @@ header {
 }
 
 .bg1 {
-	background-color: #ffe400;
+	background-color: #ff1100;
 }
 
 .bg2 {
-	background-color: #001bff;
+	background-color: #00d5ff;
 }
 
 .bg3 {
-	background-color: #d2d2d2;
+	background-color: #000000;
 }
 
 iframe {
@@ -128,13 +128,13 @@ iframe {
 
 footer {
 	height: 100px;
-	background-color: #001bff;
+	background-color: #5e6180;
 }
 
 #complete {
-	background-color: green;
+	background-color: rgb(32, 48, 32);
 }
 
 #incomplete {
-	background-color: red;
+	background-color: rgb(177, 159, 159);
 }
